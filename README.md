@@ -20,3 +20,6 @@
 - Verrouillage de la page : si un utilisateur saisit trois fois de suite un nom d'utilisateur et un mot de passe incorrects, le formulaire est verrouillé pendant 15 secondes.
 
 - Hachage des mots de passe : les mots de passe saisis sont hachés et enregistrés de manière sécurisée dans la base de données.
+
+#### Demo
+![alt text](https://github.com/della3a/tp-01-secu-form/blob/main/assets/images/Screenshot%202023-02-09%20at%204.27.15%20PM.png)
